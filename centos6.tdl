@@ -1,0 +1,13 @@
+<template>
+ <name>centos6_x86_64</name>
+ <description>CentOS6 x86_64 template</description>
+ <os>
+  <name>CentOS-6</name>
+  <version>3</version>
+  <arch>x86_64</arch>
+  <install type='url'>
+    <url>http://mirror.nus.edu.sg/centos/6/os/x86_64/</url>
+  </install>
+ </os>
+</template>
+
